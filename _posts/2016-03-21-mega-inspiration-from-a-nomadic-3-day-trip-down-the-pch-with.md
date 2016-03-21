@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Mega inspiration from a nomadic 3-day trip down the PCH with a great friend #bigsur'
-datePublished: '2016-03-21T18:30:02.734Z'
-dateModified: '2016-03-21T18:29:51.118Z'
+datePublished: '2016-03-21T18:41:46.187Z'
+dateModified: '2016-03-21T18:41:41.326Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-21-mega-inspiration-from-a-nomadic-3-day-trip-down-the-pch-with.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-mega-inspiration-from-a-nomadic-3-day-trip-down-the-pch-with.md
-published: true
 url: mega-inspiration-from-a-nomadic-3-day-trip-down-the-pch-with/index.html
 _type: Article
 
