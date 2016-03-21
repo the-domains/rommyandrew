@@ -1,9 +1,7 @@
-favicon: null
 name: rommyandrew
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.47744
+typography_spectrum: 0.1991398925893009
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.9159599386621267
-  brandStrength: 0.8141296082176268
-  lightness: 0.4233533442020416
-  brandColors:
-    - '#030203'
-    - '#424342'
-    - '#9A9A88'
-    - '#E0D8BD'
-    - '#D69321'
-  rhythmicContrast: 0.3562563830055296
-typography_spectrum: 0.1991398925893009
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.5840453784912825
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3f2e27'
+    - '#639999'
+    - '#eae8dc'
+    - '#bdb7a9'
+    - '#984e1d'
+  brandStrength: 0.375
+  lightness: 0.4233533442020416
+  saturation: 0.9159599386621267
+  rhythmicContrast: 0.25
+purpose: []
