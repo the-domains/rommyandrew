@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Listen to Rommy Andrew on SoundCloud| Live from The District'
-datePublished: '2016-03-22T20:01:29.855Z'
-dateModified: '2016-03-22T20:01:09.199Z'
+datePublished: '2016-03-22T20:02:18.133Z'
+dateModified: '2016-03-22T20:02:12.013Z'
 author:
   - name: romdezvous
     url: 'http://soundcloud.com/rommycloud'
@@ -52,14 +52,14 @@ app_links:
     namespace: google
     type: ios
 title: Follow me on SoundCloud
+sourcePath: _posts/2016-03-22-follow-me-on-soundcloud.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-03-22-follow-me-on-soundcloud.md
-published: true
 _type: AudioObject
 _context: 'http://schema.org'
 
