@@ -1,7 +1,7 @@
 name: rommyandrew
 favicon: null
-layout_spectrum: 0.33484
-typography_spectrum: 0.1991398925893009
+layout_spectrum: 1
+typography_spectrum: 0.11101
 collections:
   - index:
       path: /
@@ -33,7 +33,7 @@ color:
     - '#eae8dc'
     - '#bdb7a9'
     - '#984e1d'
-  brandStrength: 0.3125
+  brandStrength: 0.125
   lightness: 0.25
   saturation: 0.625
   rhythmicContrast: 0.25
