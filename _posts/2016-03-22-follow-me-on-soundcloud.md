@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://soundcloud.com/rommycloud/'
 inLanguage: null
 starred: false
 keywords: []
-description: 'Listen to Rommy Andrew on SoundCloud| Live from The District'
-datePublished: '2016-03-22T20:02:18.133Z'
-dateModified: '2016-03-22T20:02:12.013Z'
+description: Live from The District
+datePublished: '2016-03-22T20:03:08.295Z'
+dateModified: '2016-03-22T20:03:00.936Z'
 author:
   - name: romdezvous
     url: 'http://soundcloud.com/rommycloud'
@@ -51,7 +51,7 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-title: Follow me on SoundCloud
+title: Follow Rommy Andrew on SoundCloud
 sourcePath: _posts/2016-03-22-follow-me-on-soundcloud.md
 published: true
 authors: []
