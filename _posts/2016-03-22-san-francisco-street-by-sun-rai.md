@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://soundcloud.com/sunrai/san-francisco-street'
 inLanguage: null
 starred: false
 keywords: []
-description: 'Buy Pocket Music EP on iTunes: http://smarturl.it/sunrai http://www.facebook.com/iamsunrai http://www.twitter.com/iamsunrai http://www.youtube.com/iamsunrai http://www.instagram.com/iamsunrai'
-datePublished: '2016-03-22T20:17:46.920Z'
-dateModified: '2016-03-22T20:14:25.197Z'
+description: "Speaking of California,\_"
+datePublished: '2016-04-05T18:25:25.412Z'
+dateModified: '2016-03-22T20:26:30.338Z'
 author:
   - name: Sun Rai
     url: 'http://soundcloud.com/sunrai'
@@ -52,18 +52,18 @@ app_links:
     namespace: google
     type: ios
 title: San Francisco Street by Sun Rai
+sourcePath: _posts/2016-03-22-san-francisco-street-by-sun-rai.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-03-22-san-francisco-street-by-sun-rai.md
-published: true
 _type: AudioObject
 _context: 'http://schema.org'
 
 ---
-Speaking of California, 
+Speaking of California (and it's perfect city), THIS SONG.
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F71144593%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fsunrai%2Fsan-francisco-street&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000036159461-odwvhe-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
