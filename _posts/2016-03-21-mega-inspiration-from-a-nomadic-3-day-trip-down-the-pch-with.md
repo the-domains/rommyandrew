@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Mega inspiration from a nomadic 3-day trip down the PCH with a great friend. This particular photo is from a little beach cove in Big Sur.
-datePublished: '2016-04-06T19:24:08.449Z'
-dateModified: '2016-04-06T19:24:02.902Z'
-title: 'Get Inspired. '
+datePublished: '2016-04-06T20:29:16.728Z'
+dateModified: '2016-04-06T20:29:05.905Z'
+title: Get Inspired
 author: []
 sourcePath: _posts/2016-03-21-mega-inspiration-from-a-nomadic-3-day-trip-down-the-pch-with.md
 published: true
