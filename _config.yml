@@ -38,6 +38,9 @@ navigation:
   - name: About
     id: ba58eb72-3f76-4abf-9489-669654c61e62
     type: content
+  - name: Gallery
+    id: 0c0956fa-28e8-4a3a-ba0e-5e15a75bbd48
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8a23d66-5473-44e9-be8f-d8c902360777.jpg
 collections:
