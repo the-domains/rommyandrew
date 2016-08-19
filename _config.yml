@@ -1,20 +1,20 @@
-typography_spectrum: 0.85005
+layout_spectrum: 0.08446966926567256
+typography_spectrum: 0.8161404088605195
 color:
   brandColors:
-    - '#ffffff'
-    - '#0e0f11'
-    - '#b68246'
-    - '#37415f'
-    - '#d5bfa8'
-  brandStrength: 0.25
-  lightness: 0
-  saturation: 0.75
-  rhythmicContrast: 0.25
+    - '#F1E9C7'
+    - '#493D56'
+    - '#E89B73'
+    - '#B26B54'
+    - '#BEB2BE'
+  brandStrength: 0.8758306710515171
+  lightness: 0.3307871788274497
+  saturation: 0.20488178986124694
+  rhythmicContrast: 0.07309592817910016
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.89725
 analytics:
   google: null
   facebook: null
@@ -38,5 +38,5 @@ collections:
     permalink:
       path: '/:title/'
 title: 'Rommy Andrew '
-description: ''
+description: Tide Shadows
 purpose: []
