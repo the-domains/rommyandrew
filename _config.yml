@@ -41,6 +41,9 @@ navigation:
   - name: Gallery
     id: 0c0956fa-28e8-4a3a-ba0e-5e15a75bbd48
     type: content
+  - name: Get Inspired
+    id: 49fc7a60-5218-4f51-a6a2-a9bc6d74d689
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8a23d66-5473-44e9-be8f-d8c902360777.jpg
 collections:
