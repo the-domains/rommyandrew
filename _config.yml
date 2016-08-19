@@ -1,7 +1,30 @@
-name: 'Rommy Andrew '
-favicon: null
-layout_spectrum: 0.89725
 typography_spectrum: 0.85005
+color:
+  brandColors:
+    - '#ffffff'
+    - '#0e0f11'
+    - '#b68246'
+    - '#37415f'
+    - '#d5bfa8'
+  brandStrength: 0.25
+  lightness: 0
+  saturation: 0.75
+  rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.89725
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: 'Rommy Andrew '
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +38,5 @@ collections:
     permalink:
       path: '/:title/'
 title: 'Rommy Andrew '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#0e0f11'
-    - '#b68246'
-    - '#37415f'
-    - '#d5bfa8'
-  brandStrength: 0.25
-  lightness: 0
-  saturation: 0.75
-  rhythmicContrast: 0.25
+description: Tide Shadows
 purpose: []
